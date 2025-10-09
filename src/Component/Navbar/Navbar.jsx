@@ -1,4 +1,4 @@
-import { Link } from "react-router";
+import { Link, NavLink } from "react-router";
 import github from "../../assets/github.svg";
 import logo from "../../assets/logo.png";
 
@@ -60,13 +60,34 @@ const Navbar = () => {
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1 font-semibold">
             <li>
-              <a>Home</a>
+              <NavLink
+                to={"/"}
+                className={({ isActive }) =>
+                  isActive ? "text-blue-500 font-bold underline" : ""
+                }
+              >
+                Home
+              </NavLink>
             </li>
             <li>
-              <a>Apps</a>
+              <NavLink
+                to={"/apps"}
+                className={({ isActive }) =>
+                  isActive ? "text-blue-500 font-bold underline" : ""
+                }
+              >
+                Apps
+              </NavLink>
             </li>
             <li>
-              <a>Installation</a>
+              <NavLink
+                to={"/install"}
+                className={({ isActive }) =>
+                  isActive ? "text-blue-500 font-bold underline" : ""
+                }
+              >
+                Installation
+              </NavLink>
             </li>
           </ul>
         </div>
