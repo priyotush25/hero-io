@@ -26,7 +26,8 @@ const AppDetails = () => {
     }
   }, [id]);
 
-  if (loading) return <p className="text-center text-lg">Loading...</p>;
+  if (loading)
+    return <span className="loading loading-spinner loading-md"></span>;
 
   const app = apps.find((p) => p.id === Number(id));
   if (!app)

@@ -1,7 +1,7 @@
 import { useState } from "react";
 import useApps from "../../Hooks/useApps";
 
-import SkeletonLoader from "../SkeletonLoader";
+import AppNotFund from "../AppNotFound/AppNotFound";
 import AppsCard from "../TrendApps/AppsCard";
 
 const Apps = () => {
@@ -42,17 +42,16 @@ const Apps = () => {
       </div>
 
       {loading ? (
-        <SkeletonLoader count={16} />
+        <span className="loading loading-spinner loading-md"></span>
       ) : searchedApps.length === 0 ? (
-        <div className="text-center py-10">
-          <p className="text-3xl font-bold">No App Found</p>
+        <AppNotFund>
           <button
             onClick={handleShowAll}
             className="mt-4 font-bold px-4 py-2 bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white rounded hover:bg-blue-600"
           >
-            Show All App
+            Go Back!
           </button>
-        </div>
+        </AppNotFund>
       ) : (
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
           {searchedApps.map((app) => (
