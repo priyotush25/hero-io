@@ -20,4 +20,14 @@ The main goal of this project is to create a **modern, responsive app listing pl
 
 ---
 
-## Project Structure
+## Technologies Used
+
+React.js - Frontend library
+
+React Router v6 - Navigation
+
+TailwindCSS - Styling and responsive layout
+
+Custom Hooks - For fetching app data
+
+JavaScript (ES6+) - Logic and interactivity
