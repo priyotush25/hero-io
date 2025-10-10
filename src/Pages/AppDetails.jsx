@@ -77,11 +77,11 @@ const AppDetails = () => {
             <button
               onClick={handleInstall}
               disabled={installed}
-              className={`btn btn-outline border-[#2ECC71] bg-[#2ECC71] hover:text-white text-white ${
-                installed ? "opacity-50 cursor-not-allowed" : ""
+              className={`btn btn-outline bg-[#2ECC71] text-white ${
+                installed ? "bg-amber-200 cursor-not-allowed" : ""
               }`}
             >
-              {installed ? "Installed ✅" : `Install Now (${app.size} MB)`}
+              {installed ? "Installed" : `Install Now (${app.size} MB)`}
             </button>
           </div>
         </div>

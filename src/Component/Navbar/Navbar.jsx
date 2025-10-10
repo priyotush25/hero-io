@@ -93,8 +93,13 @@ const Navbar = () => {
         </div>
 
         <div className="navbar-end">
-          <a className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white">
-            <img src={github} alt="" />
+          <a
+            href="https://github.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white flex items-center gap-2"
+          >
+            <img src={github} alt="GitHub" className="w-5 h-5" />
             Contribute
           </a>
         </div>

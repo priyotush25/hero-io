@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "image": "https://via.placeholder.com/150",
     "title": "TaskFlow",
     "companyName": "FlowCorp",
     "description": "Manage your daily tasks with smart reminders and AI suggestions.",
@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
+    "image": "https://via.placeholder.com/150",
     "title": "NotePilot",
     "companyName": "Skyware Labs",
     "description": "Take notes, draw sketches, and sync across all devices effortlessly.",
@@ -37,7 +37,7 @@
   },
   {
     "id": 3,
-    "image": "https://images.unsplash.com/photo-1579758629938-03607ccdbaba",
+    "image": "https://via.placeholder.com/150",
     "title": "FitTrack",
     "companyName": "ActiveMotion",
     "description": "Track workouts, monitor calories, and stay fit with daily goals.",
@@ -55,7 +55,7 @@
   },
   {
     "id": 4,
-    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "image": "https://via.placeholder.com/150",
     "title": "Cooksy",
     "companyName": "KitchenAI",
     "description": "Smart recipe finder and meal planner with nutrition tracking.",
@@ -73,7 +73,7 @@
   },
   {
     "id": 5,
-    "image": "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1",
+    "image": "https://via.placeholder.com/150",
     "title": "Budgetly",
     "companyName": "FinGo",
     "description": "Track expenses, set budgets, and save money effortlessly.",
@@ -91,7 +91,7 @@
   },
   {
     "id": 6,
-    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "image": "https://via.placeholder.com/150",
     "title": "TravelMate",
     "companyName": "ExploreX",
     "description": "Discover destinations, plan trips, and book flights easily.",
@@ -109,7 +109,7 @@
   },
   {
     "id": 7,
-    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+    "image": "https://via.placeholder.com/150",
     "title": "MindEase",
     "companyName": "PeacefulTech",
     "description": "Meditation and mindfulness app with daily relaxation sessions.",
@@ -127,7 +127,7 @@
   },
   {
     "id": 8,
-    "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984",
+    "image": "https://via.placeholder.com/150",
     "title": "LangLearn",
     "companyName": "PolyGlot",
     "description": "Learn new languages interactively with AI-powered lessons.",
@@ -145,7 +145,7 @@
   },
   {
     "id": 9,
-    "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0",
+    "image": "https://via.placeholder.com/150",
     "title": "PhotoPro",
     "companyName": "PixelWave",
     "description": "Edit photos like a pro with AI tools and creative filters.",
@@ -163,7 +163,7 @@
   },
   {
     "id": 10,
-    "image": "https://images.unsplash.com/photo-1581092795360-8a1b5b0c7a84",
+    "image": "https://via.placeholder.com/150",
     "title": "EduSmart",
     "companyName": "BrightMind",
     "description": "Interactive learning platform for students and teachers.",
@@ -181,7 +181,7 @@
   },
   {
     "id": 11,
-    "image": "https://images.unsplash.com/photo-1535223289827-42f1e9919769",
+    "image": "https://via.placeholder.com/150",
     "title": "ShopNow",
     "companyName": "Dealster",
     "description": "Get amazing deals and shop from thousands of online stores.",
@@ -199,7 +199,7 @@
   },
   {
     "id": 12,
-    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "image": "https://via.placeholder.com/150",
     "title": "CodeHub",
     "companyName": "DevSoft",
     "description": "Collaborate, learn, and build projects with a coding community.",
@@ -213,222 +213,6 @@
       { "name": "3 star", "count": 180 },
       { "name": "4 star", "count": 400 },
       { "name": "5 star", "count": 1150 }
-    ]
-  },
-  {
-    "id": 13,
-    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
-    "title": "WorkHub",
-    "companyName": "OfficeTech",
-    "description": "All-in-one team collaboration and productivity suite.",
-    "size": 47,
-    "reviews": 2200,
-    "ratingAvg": 4.6,
-    "downloads": 410000,
-    "ratings": [
-      { "name": "1 star", "count": 120 },
-      { "name": "2 star", "count": 160 },
-      { "name": "3 star", "count": 300 },
-      { "name": "4 star", "count": 600 },
-      { "name": "5 star", "count": 1020 }
-    ]
-  },
-  {
-    "id": 14,
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
-    "title": "WebCraft",
-    "companyName": "CreativeDev",
-    "description": "Design and deploy beautiful websites without code.",
-    "size": 61,
-    "reviews": 2800,
-    "ratingAvg": 4.7,
-    "downloads": 520000,
-    "ratings": [
-      { "name": "1 star", "count": 140 },
-      { "name": "2 star", "count": 150 },
-      { "name": "3 star", "count": 300 },
-      { "name": "4 star", "count": 600 },
-      { "name": "5 star", "count": 1610 }
-    ]
-  },
-  {
-    "id": 15,
-    "image": "https://images.unsplash.com/photo-1556767576-cfba48f5efa7",
-    "title": "ChatEase",
-    "companyName": "ComNet",
-    "description": "Fast and secure messaging app for personal and business use.",
-    "size": 33,
-    "reviews": 1900,
-    "ratingAvg": 4.4,
-    "downloads": 270000,
-    "ratings": [
-      { "name": "1 star", "count": 110 },
-      { "name": "2 star", "count": 130 },
-      { "name": "3 star", "count": 250 },
-      { "name": "4 star", "count": 500 },
-      { "name": "5 star", "count": 910 }
-    ]
-  },
-  {
-    "id": 16,
-    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
-    "title": "GameBox",
-    "companyName": "PlayJoy",
-    "description": "Thousands of games, leaderboards, and daily challenges.",
-    "size": 66,
-    "reviews": 4200,
-    "ratingAvg": 4.8,
-    "downloads": 620000,
-    "ratings": [
-      { "name": "1 star", "count": 160 },
-      { "name": "2 star", "count": 180 },
-      { "name": "3 star", "count": 300 },
-      { "name": "4 star", "count": 700 },
-      { "name": "5 star", "count": 2860 }
-    ]
-  },
-  {
-    "id": 17,
-    "image": "https://images.unsplash.com/photo-1564869733657-6d6a56b0a3b2",
-    "title": "MusicBeats",
-    "companyName": "Soundify",
-    "description": "Stream music, create playlists, and share with friends.",
-    "size": 50,
-    "reviews": 3800,
-    "ratingAvg": 4.7,
-    "downloads": 590000,
-    "ratings": [
-      { "name": "1 star", "count": 140 },
-      { "name": "2 star", "count": 160 },
-      { "name": "3 star", "count": 310 },
-      { "name": "4 star", "count": 800 },
-      { "name": "5 star", "count": 2390 }
-    ]
-  },
-  {
-    "id": 18,
-    "image": "https://images.unsplash.com/photo-1556740749-887f6717d7e4",
-    "title": "HealthSync",
-    "companyName": "MedTech",
-    "description": "Monitor your health, connect to smart devices, and stay informed.",
-    "size": 42,
-    "reviews": 2500,
-    "ratingAvg": 4.5,
-    "downloads": 300000,
-    "ratings": [
-      { "name": "1 star", "count": 100 },
-      { "name": "2 star", "count": 150 },
-      { "name": "3 star", "count": 290 },
-      { "name": "4 star", "count": 650 },
-      { "name": "5 star", "count": 1310 }
-    ]
-  },
-  {
-    "id": 19,
-    "image": "https://images.unsplash.com/photo-1532614338840-ab30cf10ed36",
-    "title": "Streamly",
-    "companyName": "MediaZone",
-    "description": "Watch movies, TV shows, and live channels on the go.",
-    "size": 70,
-    "reviews": 5100,
-    "ratingAvg": 4.9,
-    "downloads": 850000,
-    "ratings": [
-      { "name": "1 star", "count": 170 },
-      { "name": "2 star", "count": 200 },
-      { "name": "3 star", "count": 350 },
-      { "name": "4 star", "count": 800 },
-      { "name": "5 star", "count": 3580 }
-    ]
-  },
-  {
-    "id": 20,
-    "image": "https://images.unsplash.com/photo-1581090463526-52e6f5e6b8e3",
-    "title": "CryptoVault",
-    "companyName": "CoinSecure",
-    "description": "Track your crypto portfolio and get real-time alerts.",
-    "size": 37,
-    "reviews": 2400,
-    "ratingAvg": 4.6,
-    "downloads": 290000,
-    "ratings": [
-      { "name": "1 star", "count": 120 },
-      { "name": "2 star", "count": 130 },
-      { "name": "3 star", "count": 240 },
-      { "name": "4 star", "count": 540 },
-      { "name": "5 star", "count": 1370 }
-    ]
-  },
-  {
-    "id": 21,
-    "image": "https://images.unsplash.com/photo-1612831662375-295c1003d3b8",
-    "title": "Artify",
-    "companyName": "CanvasWorks",
-    "description": "Create digital art, sketches, and illustrations easily.",
-    "size": 55,
-    "reviews": 3100,
-    "ratingAvg": 4.8,
-    "downloads": 430000,
-    "ratings": [
-      { "name": "1 star", "count": 100 },
-      { "name": "2 star", "count": 140 },
-      { "name": "3 star", "count": 280 },
-      { "name": "4 star", "count": 700 },
-      { "name": "5 star", "count": 1880 }
-    ]
-  },
-  {
-    "id": 22,
-    "image": "https://images.unsplash.com/photo-1590608897129-79da98d159d8",
-    "title": "PetCare",
-    "companyName": "HappyPaws",
-    "description": "Keep track of your pet’s health, meals, and vet visits.",
-    "size": 33,
-    "reviews": 1250,
-    "ratingAvg": 4.4,
-    "downloads": 170000,
-    "ratings": [
-      { "name": "1 star", "count": 60 },
-      { "name": "2 star", "count": 80 },
-      { "name": "3 star", "count": 200 },
-      { "name": "4 star", "count": 350 },
-      { "name": "5 star", "count": 560 }
-    ]
-  },
-  {
-    "id": 23,
-    "image": "https://images.unsplash.com/photo-1590608897541-81b1d2446642",
-    "title": "BookVerse",
-    "companyName": "Readify",
-    "description": "Discover, read, and share your favorite books anytime.",
-    "size": 46,
-    "reviews": 1800,
-    "ratingAvg": 4.5,
-    "downloads": 260000,
-    "ratings": [
-      { "name": "1 star", "count": 90 },
-      { "name": "2 star", "count": 110 },
-      { "name": "3 star", "count": 230 },
-      { "name": "4 star", "count": 400 },
-      { "name": "5 star", "count": 970 }
-    ]
-  },
-  {
-    "id": 24,
-    "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
-    "title": "SecureVault",
-    "companyName": "SafeZone",
-    "description": "Protect your passwords, files, and sensitive data securely.",
-    "size": 35,
-    "reviews": 2000,
-    "ratingAvg": 4.6,
-    "downloads": 330000,
-    "ratings": [
-      { "name": "1 star", "count": 80 },
-      { "name": "2 star", "count": 100 },
-      { "name": "3 star", "count": 200 },
-      { "name": "4 star", "count": 500 },
-      { "name": "5 star", "count": 1120 }
     ]
   }
 ]
