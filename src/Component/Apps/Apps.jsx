@@ -16,10 +16,10 @@ const Apps = () => {
     <div>
       <div className="flex flex-col items-center justify-center text-center lg:mt-20">
         <h1 className="text-5xl text-[#001931] font-bold mb-4">
-          Trending Apps
+          Our All Applications
         </h1>
         <p className="text-xl text-[#627382] font-medium mb-10">
-          Explore All Trending Apps on the Market developed by us
+          Explore All Apps on the Market developed by us. We code for Millions
         </p>
       </div>
 
@@ -40,7 +40,7 @@ const Apps = () => {
       {loading ? (
         <SkeletonLoader count={16} />
       ) : (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
           {searchedProducts.map((app) => (
             <AppsCard key={app.id} app={app} />
           ))}

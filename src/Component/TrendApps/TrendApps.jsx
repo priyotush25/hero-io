@@ -5,7 +5,7 @@ import AppsCard from "./AppsCard";
 const TrendApps = () => {
   const { loading, error, apps } = useApps();
 
-  const trendApp = apps.slice(0, 6);
+  const trendApp = apps.slice(0, 8);
   console.log(trendApp);
 
   return (
@@ -23,7 +23,7 @@ const TrendApps = () => {
               // <SkeletonLoader />
               <p>loading</p>
             ) : (
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
                 {trendApp.map((app) => (
                   <AppsCard app={app} key={app.id} />
                 ))}

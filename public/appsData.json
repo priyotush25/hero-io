@@ -1,178 +1,434 @@
 [
   {
     "id": 1,
-    "name": "Modern Velvet Sofa",
-    "category": "Furniture",
-    "price": 520,
-    "material": "Velvet, Wood",
-    "dimensions": "84 x 35 x 33 in",
-    "stock": true,
-    "image": "https://i.ibb.co.com/tM7pbxwx/Modern-Velvet-Sofa.jpg",
-    "description": "A cozy velvet sofa with a modern design, ideal for living rooms."
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "title": "TaskFlow",
+    "companyName": "FlowCorp",
+    "description": "Manage your daily tasks with smart reminders and AI suggestions.",
+    "size": 34,
+    "reviews": 1280,
+    "ratingAvg": 4.6,
+    "downloads": 120000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 645 }
+    ]
   },
   {
     "id": 2,
-    "name": "Wooden Coffee Table",
-    "category": "Furniture",
-    "price": 230,
-    "material": "Oak Wood",
-    "dimensions": "40 x 22 x 18 in",
-    "stock": true,
-    "image": "https://i.ibb.co.com/B29xwj5b/Wooden-Coffee-Table.jpg",
-    "description": "Solid oak coffee table with smooth polish and rounded corners."
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
+    "title": "NotePilot",
+    "companyName": "Skyware Labs",
+    "description": "Take notes, draw sketches, and sync across all devices effortlessly.",
+    "size": 28,
+    "reviews": 930,
+    "ratingAvg": 4.3,
+    "downloads": 95000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 330 }
+    ]
   },
   {
     "id": 3,
-    "name": "Minimalist Floor Lamp",
-    "category": "Lighting",
-    "price": 120,
-    "material": "Metal, Fabric",
-    "dimensions": "60 x 12 x 12 in",
-    "stock": true,
-    "image": "https://i.ibb.co.com/cS6tVW1v/Minimalist-Floor-Lamp.jpg",
-    "description": "Soft ambient light with a clean, modern look for any corner."
+    "image": "https://images.unsplash.com/photo-1579758629938-03607ccdbaba",
+    "title": "FitTrack",
+    "companyName": "ActiveMotion",
+    "description": "Track workouts, monitor calories, and stay fit with daily goals.",
+    "size": 45,
+    "reviews": 2010,
+    "ratingAvg": 4.7,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 1060 }
+    ]
   },
   {
     "id": 4,
-    "name": "Industrial Pendant Light",
-    "category": "Lighting",
-    "price": 180,
-    "material": "Iron",
-    "dimensions": "15 x 15 x 12 in",
-    "stock": true,
-    "image": "https://i.ibb.co.com/mFzfzj8x/Industrial-Pendant-Light.jpg",
-    "description": "Rustic industrial pendant light perfect for dining areas."
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "title": "Cooksy",
+    "companyName": "KitchenAI",
+    "description": "Smart recipe finder and meal planner with nutrition tracking.",
+    "size": 38,
+    "reviews": 1700,
+    "ratingAvg": 4.5,
+    "downloads": 220000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 830 }
+    ]
   },
   {
     "id": 5,
-    "name": "Abstract Wall-Art Canvas",
-    "category": "Wall-Art",
-    "price": 95,
-    "material": "Canvas, Acrylic",
-    "dimensions": "30 x 40 in",
-    "stock": true,
-    "image": "https://i.ibb.co.com/whmfKyvZ/Abstract-Wall-Art-Canvas.jpg",
-    "description": "A hand-painted abstract art piece to elevate your room\u2019s vibe."
+    "image": "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1",
+    "title": "Budgetly",
+    "companyName": "FinGo",
+    "description": "Track expenses, set budgets, and save money effortlessly.",
+    "size": 29,
+    "reviews": 1560,
+    "ratingAvg": 4.4,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 75 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 655 }
+    ]
   },
   {
     "id": 6,
-    "name": "Nature Landscape Frame",
-    "category": "Wall-Art",
-    "price": 85,
-    "material": "Canvas, Wooden Frame",
-    "dimensions": "28 x 36 in",
-    "stock": false,
-    "image": "https://i.ibb.co.com/bMFCPWW4/Nature-Landscape-Frame.jpg",
-    "description": "Scenic nature view framed in premium wood."
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "title": "TravelMate",
+    "companyName": "ExploreX",
+    "description": "Discover destinations, plan trips, and book flights easily.",
+    "size": 52,
+    "reviews": 3200,
+    "ratingAvg": 4.8,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 750 },
+      { "name": "5 star", "count": 1920 }
+    ]
   },
   {
     "id": 7,
-    "name": "Wool Area Rug",
-    "category": "Rugs",
-    "price": 260,
-    "material": "100% Wool",
-    "dimensions": "8 x 10 ft",
-    "stock": true,
-    "image": "https://i.ibb.co.com/DDzxZdW0/Wool-Area-Rug.jpg",
-    "description": "Handwoven wool rug with geometric patterns."
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+    "title": "MindEase",
+    "companyName": "PeacefulTech",
+    "description": "Meditation and mindfulness app with daily relaxation sessions.",
+    "size": 25,
+    "reviews": 850,
+    "ratingAvg": 4.2,
+    "downloads": 92000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 300 }
+    ]
   },
   {
     "id": 8,
-    "name": "Round Cotton Rug",
-    "category": "Rugs",
-    "price": 150,
-    "material": "Cotton",
-    "dimensions": "6 ft diameter",
-    "stock": true,
-    "image": "https://i.ibb.co.com/Fkx0y6hq/Round-Cotton-Rug.jpg",
-    "description": "Soft cotton rug that fits perfectly in reading corners."
+    "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984",
+    "title": "LangLearn",
+    "companyName": "PolyGlot",
+    "description": "Learn new languages interactively with AI-powered lessons.",
+    "size": 48,
+    "reviews": 1900,
+    "ratingAvg": 4.7,
+    "downloads": 280000,
+    "ratings": [
+      { "name": "1 star", "count": 85 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 420 },
+      { "name": "5 star", "count": 1035 }
+    ]
   },
   {
     "id": 9,
-    "name": "Classic Armchair",
-    "category": "Furniture",
-    "price": 320,
-    "material": "Leather, Wood",
-    "dimensions": "36 x 34 x 38 in",
-    "stock": true,
-    "image": "https://i.ibb.co.com/LDSXGkMN/Classic-Armchair.jpg",
-    "description": "Elegant leather armchair with classic wooden legs."
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0",
+    "title": "PhotoPro",
+    "companyName": "PixelWave",
+    "description": "Edit photos like a pro with AI tools and creative filters.",
+    "size": 60,
+    "reviews": 2750,
+    "ratingAvg": 4.6,
+    "downloads": 420000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 320 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1580 }
+    ]
   },
   {
     "id": 10,
-    "name": "Wall Mirror with Frame",
-    "category": "Wall-Art",
-    "price": 110,
-    "material": "Glass, Metal Frame",
-    "dimensions": "24 x 36 in",
-    "stock": true,
-    "image": "https://i.ibb.co.com/yBZ11W7x/Wall-Mirror-with-Frame.jpg",
-    "description": "Decorative wall mirror that adds brightness and space."
+    "image": "https://images.unsplash.com/photo-1581092795360-8a1b5b0c7a84",
+    "title": "EduSmart",
+    "companyName": "BrightMind",
+    "description": "Interactive learning platform for students and teachers.",
+    "size": 43,
+    "reviews": 2100,
+    "ratingAvg": 4.5,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1030 }
+    ]
   },
   {
     "id": 11,
-    "name": "Bamboo Pendant Lamp",
-    "category": "Lighting",
-    "price": 160,
-    "material": "Bamboo",
-    "dimensions": "14 x 14 x 10 in",
-    "stock": true,
-    "image": "https://i.ibb.co.com/8ts06FR/Bamboo-Pendant-Lamp.jpg",
-    "description": "Eco-friendly bamboo pendant that gives a warm rustic glow."
+    "image": "https://images.unsplash.com/photo-1535223289827-42f1e9919769",
+    "title": "ShopNow",
+    "companyName": "Dealster",
+    "description": "Get amazing deals and shop from thousands of online stores.",
+    "size": 59,
+    "reviews": 3400,
+    "ratingAvg": 4.7,
+    "downloads": 560000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1950 }
+    ]
   },
   {
     "id": 12,
-    "name": "Modern Bookshelf",
-    "category": "Furniture",
-    "price": 410,
-    "material": "Engineered Wood",
-    "dimensions": "70 x 28 x 12 in",
-    "stock": true,
-    "image": "https://i.ibb.co.com/0ycx275M/Modern-Bookshelf.jpg",
-    "description": "Spacious modern bookshelf with 5 adjustable shelves."
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "title": "CodeHub",
+    "companyName": "DevSoft",
+    "description": "Collaborate, learn, and build projects with a coding community.",
+    "size": 44,
+    "reviews": 1900,
+    "ratingAvg": 4.8,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1150 }
+    ]
   },
   {
     "id": 13,
-    "name": "Handcrafted Wall Hanging",
-    "category": "Wall-Art",
-    "price": 75,
-    "material": "Cotton Rope",
-    "dimensions": "28 x 40 in",
-    "stock": true,
-    "image": "https://i.ibb.co.com/Q70mQK9S/Handcrafted-Wall-Hanging.jpg",
-    "description": "Beautiful boho-style wall hanging for cozy spaces."
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+    "title": "WorkHub",
+    "companyName": "OfficeTech",
+    "description": "All-in-one team collaboration and productivity suite.",
+    "size": 47,
+    "reviews": 2200,
+    "ratingAvg": 4.6,
+    "downloads": 410000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1020 }
+    ]
   },
   {
     "id": 14,
-    "name": "Persian Pattern Rug",
-    "category": "Rugs",
-    "price": 320,
-    "material": "Silk Blend",
-    "dimensions": "9 x 12 ft",
-    "stock": true,
-    "image": "https://i.ibb.co.com/8LD3HbNH/Persian-Pattern-Rug.jpg",
-    "description": "Luxurious Persian rug with hand-tufted details."
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "title": "WebCraft",
+    "companyName": "CreativeDev",
+    "description": "Design and deploy beautiful websites without code.",
+    "size": 61,
+    "reviews": 2800,
+    "ratingAvg": 4.7,
+    "downloads": 520000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1610 }
+    ]
   },
   {
     "id": 15,
-    "name": "Tripod Standing Lamp",
-    "category": "Lighting",
-    "price": 210,
-    "material": "Wood, Linen Shade",
-    "dimensions": "58 x 16 x 16 in",
-    "stock": true,
-    "image": "https://i.ibb.co.com/p74Hdyv/Tripod-Standing-Lamp.jpg",
-    "description": "Contemporary tripod lamp for a minimalist living area."
+    "image": "https://images.unsplash.com/photo-1556767576-cfba48f5efa7",
+    "title": "ChatEase",
+    "companyName": "ComNet",
+    "description": "Fast and secure messaging app for personal and business use.",
+    "size": 33,
+    "reviews": 1900,
+    "ratingAvg": 4.4,
+    "downloads": 270000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 910 }
+    ]
   },
   {
     "id": 16,
-    "name": "Marble Top Table",
-    "category": "Furniture",
-    "price": 270,
-    "material": "Marble, Iron Base",
-    "dimensions": "24 x 24 x 20 in",
-    "stock": true,
-    "image": "https://i.ibb.co.com/hxYFvcLt/Marble-Top-Table.jpg",
-    "description": "Elegant side table with a white marble top and gold base."
+    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+    "title": "GameBox",
+    "companyName": "PlayJoy",
+    "description": "Thousands of games, leaderboards, and daily challenges.",
+    "size": 66,
+    "reviews": 4200,
+    "ratingAvg": 4.8,
+    "downloads": 620000,
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 2860 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://images.unsplash.com/photo-1564869733657-6d6a56b0a3b2",
+    "title": "MusicBeats",
+    "companyName": "Soundify",
+    "description": "Stream music, create playlists, and share with friends.",
+    "size": 50,
+    "reviews": 3800,
+    "ratingAvg": 4.7,
+    "downloads": 590000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 310 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 2390 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://images.unsplash.com/photo-1556740749-887f6717d7e4",
+    "title": "HealthSync",
+    "companyName": "MedTech",
+    "description": "Monitor your health, connect to smart devices, and stay informed.",
+    "size": 42,
+    "reviews": 2500,
+    "ratingAvg": 4.5,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 290 },
+      { "name": "4 star", "count": 650 },
+      { "name": "5 star", "count": 1310 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://images.unsplash.com/photo-1532614338840-ab30cf10ed36",
+    "title": "Streamly",
+    "companyName": "MediaZone",
+    "description": "Watch movies, TV shows, and live channels on the go.",
+    "size": 70,
+    "reviews": 5100,
+    "ratingAvg": 4.9,
+    "downloads": 850000,
+    "ratings": [
+      { "name": "1 star", "count": 170 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 3580 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://images.unsplash.com/photo-1581090463526-52e6f5e6b8e3",
+    "title": "CryptoVault",
+    "companyName": "CoinSecure",
+    "description": "Track your crypto portfolio and get real-time alerts.",
+    "size": 37,
+    "reviews": 2400,
+    "ratingAvg": 4.6,
+    "downloads": 290000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 240 },
+      { "name": "4 star", "count": 540 },
+      { "name": "5 star", "count": 1370 }
+    ]
+  },
+  {
+    "id": 21,
+    "image": "https://images.unsplash.com/photo-1612831662375-295c1003d3b8",
+    "title": "Artify",
+    "companyName": "CanvasWorks",
+    "description": "Create digital art, sketches, and illustrations easily.",
+    "size": 55,
+    "reviews": 3100,
+    "ratingAvg": 4.8,
+    "downloads": 430000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1880 }
+    ]
+  },
+  {
+    "id": 22,
+    "image": "https://images.unsplash.com/photo-1590608897129-79da98d159d8",
+    "title": "PetCare",
+    "companyName": "HappyPaws",
+    "description": "Keep track of your pet’s health, meals, and vet visits.",
+    "size": 33,
+    "reviews": 1250,
+    "ratingAvg": 4.4,
+    "downloads": 170000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 560 }
+    ]
+  },
+  {
+    "id": 23,
+    "image": "https://images.unsplash.com/photo-1590608897541-81b1d2446642",
+    "title": "BookVerse",
+    "companyName": "Readify",
+    "description": "Discover, read, and share your favorite books anytime.",
+    "size": 46,
+    "reviews": 1800,
+    "ratingAvg": 4.5,
+    "downloads": 260000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 230 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 970 }
+    ]
+  },
+  {
+    "id": 24,
+    "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+    "title": "SecureVault",
+    "companyName": "SafeZone",
+    "description": "Protect your passwords, files, and sensitive data securely.",
+    "size": 35,
+    "reviews": 2000,
+    "ratingAvg": 4.6,
+    "downloads": 330000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 1120 }
+    ]
   }
 ]
