@@ -1,4 +1,5 @@
 import { Outlet } from "react-router";
+import { ToastContainer } from "react-toastify";
 import Footer from "../Component/Footer/Footer";
 import Navbar from "../Component/Navbar/Navbar";
 
@@ -9,6 +10,7 @@ const MainLayouts = () => {
         <Navbar />
         <div className="max-w-screen-xl mx-auto w-full px-4 md:px-8 lg:px-12 py-4 md:py-8 lg:py-12 flex-1">
           <Outlet></Outlet>
+          <ToastContainer />
         </div>
 
         <Footer />
