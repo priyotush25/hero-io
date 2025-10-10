@@ -1,22 +1,14 @@
 import { useState } from "react";
 import { FaDownload, FaStar } from "react-icons/fa";
-import {
-  BarChart,
-  CartesianGrid,
-  Legend,
-  Bar as RechartsBar,
-  ResponsiveContainer,
-  Tooltip,
-  XAxis,
-  YAxis,
-} from "recharts";
+import { toast } from "react-toastify";
 import { getInstalledApps } from "../utilities/localStorage";
 
 const InstalledApps = () => {
   const [installedApps, setInstalledApps] = useState(() => getInstalledApps());
   const [sortOrder, setSortOrder] = useState("none");
 
-  if (!installedApps.length) return <p>No Installed Apps</p>;
+  if (!installedApps.length)
+    return <p className="text-center text-gray-500 mt-10">No Installed Apps</p>;
 
   // Sort logic
   const sortedItem = (() => {
@@ -31,24 +23,14 @@ const InstalledApps = () => {
     const updated = installedApps.filter((app) => app.id !== id);
     localStorage.setItem("installedApps", JSON.stringify(updated));
     setInstalledApps(updated);
+    toast("App Uninstall");
   };
-
-  // Chart data: total size by company
-  const totalsByCompany = {};
-  installedApps.forEach((app) => {
-    const company = app.companyName;
-    totalsByCompany[company] = (totalsByCompany[company] || 0) + app.size;
-  });
-  const chartData = Object.keys(totalsByCompany).map((company) => ({
-    company,
-    totalSize: totalsByCompany[company],
-  }));
 
   return (
     <div className="space-y-6">
       {/* Header */}
-      <div className="flex justify-between py-5 items-center">
-        <h1 className="text-3xl font-semibold">
+      <div className="flex flex-col md:flex-row justify-between py-5 items-center gap-3">
+        <h1 className="text-2xl md:text-3xl font-semibold text-center md:text-left">
           ({sortedItem.length}) Installed Apps
         </h1>
         <label className="form-control w-full max-w-xs">
@@ -58,68 +40,51 @@ const InstalledApps = () => {
             onChange={(e) => setSortOrder(e.target.value)}
           >
             <option value="none">Sort by size</option>
-            <option value="size-asc">Small-&gt;Large</option>
-            <option value="size-desc">Large-&gt;Small</option>
+            <option value="size-asc">Small → Large</option>
+            <option value="size-desc">Large → Small</option>
           </select>
         </label>
       </div>
 
-      {/* App cards */}
-      <div className="space-y-3">
+      {/* Row-wise Installed Apps */}
+      <div className="space-y-4">
         {sortedItem.map((app) => (
-          <div key={app.id} className="card bg-base-100 shadow p-4 flex gap-4">
-            <div className="flex justify-between items-center">
-              {/* Left: Image + stats */}
-
-              <div className="flex-1 flex items-center gap-4">
-                <img
-                  className="w-24 h-24 object-cover rounded-xl"
-                  src={app.image}
-                  alt={app.title}
-                />
-                <div className="flex flex-col gap-2">
-                  <h3 className="text-lg font-semibold">{app.title}</h3>
-                  <div className="flex gap-4 text-gray-700 items-center">
-                    <div className="flex items-center gap-1">
-                      <FaDownload /> {app.downloads}
-                    </div>
-                    <div className="flex items-center gap-1 text-amber-600">
-                      <FaStar /> {app.ratingAvg}
-                    </div>
-                    <div>{app.size} MB</div>
+          <div
+            key={app.id}
+            className="flex flex-col sm:flex-row justify-between items-center bg-white rounded-xl shadow p-4 gap-4"
+          >
+            {/* Left section */}
+            <div className="flex items-center gap-4 w-full sm:w-auto">
+              <img
+                className="w-20 h-20 object-cover rounded-lg"
+                src={app.image}
+                alt={app.title}
+              />
+              <div>
+                <h3 className="text-lg font-semibold">{app.title}</h3>
+                <div className="flex flex-wrap gap-4 text-[#00D390] text-sm mt-2">
+                  <div className="flex items-center gap-1">
+                    <FaDownload /> {app.downloads}
                   </div>
+                  <div className="flex items-center gap-1 text-amber-600">
+                    <FaStar /> {app.ratingAvg}
+                  </div>
+                  <div>{app.size} MB</div>
                 </div>
               </div>
+            </div>
 
-              {/* Right: Uninstall button */}
-              <div>
-                <button
-                  onClick={() => handleRemove(app.id)}
-                  className="btn bg-[#2ECC71] text-white"
-                >
-                  Uninstall
-                </button>
-              </div>
+            {/* Right section */}
+            <div className="w-full sm:w-auto">
+              <button
+                onClick={() => handleRemove(app.id)}
+                className="btn bg-[#2ECC71] text-white w-full sm:w-auto"
+              >
+                Uninstall
+              </button>
             </div>
           </div>
         ))}
-      </div>
-
-      {/* Chart summary */}
-      <div className="space-y-3">
-        <h3 className="text-xl font-semibold">Installed Apps Summary</h3>
-        <div className="bg-base-100 border rounded-xl p-4 h-80">
-          <ResponsiveContainer width="100%" height="100%">
-            <BarChart data={chartData}>
-              <CartesianGrid strokeDasharray="3 3" />
-              <XAxis dataKey="company" />
-              <YAxis />
-              <Tooltip />
-              <Legend />
-              <RechartsBar dataKey="totalSize" fill="#FFA726" />
-            </BarChart>
-          </ResponsiveContainer>
-        </div>
       </div>
     </div>
   );

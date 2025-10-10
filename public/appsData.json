@@ -1,208 +1,64 @@
 [
   {
+    "image": "https://img.icons8.com/clouds/300/apple-app-store.png",
+    "title": "Forest: Focus For Productivity",
+    "companyName": "Seekrtech",
     "id": 1,
-    "image": "https://via.placeholder.com/150",
-    "title": "TaskFlow",
-    "companyName": "FlowCorp",
-    "description": "Manage your daily tasks with smart reminders and AI suggestions.",
-    "size": 34,
-    "reviews": 1280,
-    "ratingAvg": 4.6,
-    "downloads": 120000,
-    "ratings": [
-      { "name": "1 star", "count": 45 },
-      { "name": "2 star", "count": 60 },
-      { "name": "3 star", "count": 180 },
-      { "name": "4 star", "count": 350 },
-      { "name": "5 star", "count": 645 }
-    ]
-  },
-  {
-    "id": 2,
-    "image": "https://via.placeholder.com/150",
-    "title": "NotePilot",
-    "companyName": "Skyware Labs",
-    "description": "Take notes, draw sketches, and sync across all devices effortlessly.",
-    "size": 28,
-    "reviews": 930,
-    "ratingAvg": 4.3,
-    "downloads": 95000,
-    "ratings": [
-      { "name": "1 star", "count": 70 },
-      { "name": "2 star", "count": 90 },
-      { "name": "3 star", "count": 160 },
-      { "name": "4 star", "count": 280 },
-      { "name": "5 star", "count": 330 }
-    ]
-  },
-  {
-    "id": 3,
-    "image": "https://via.placeholder.com/150",
-    "title": "FitTrack",
-    "companyName": "ActiveMotion",
-    "description": "Track workouts, monitor calories, and stay fit with daily goals.",
-    "size": 45,
-    "reviews": 2010,
+    "description": "Forest is an innovative focus timer app designed to help you conquer phone addiction and stay productively engaged in your work or studies. By starting a timer in the app, you plant a virtual tree that will grow while you concentrate. If you leave the app before the timer ends, your tree will wither, providing a strong psychological incentive to remain focused and minimize distractions. This gamified approach transforms concentration into an enjoyable and rewarding experience. You can also team up with friends to plant trees together and build a beautiful, shared virtual forest of productivity.",
+    "size": 47,
+    "reviews": 1720,
     "ratingAvg": 4.7,
-    "downloads": 350000,
+    "downloads": 348000,
     "ratings": [
-      { "name": "1 star", "count": 90 },
-      { "name": "2 star", "count": 110 },
-      { "name": "3 star", "count": 250 },
-      { "name": "4 star", "count": 500 },
-      { "name": "5 star", "count": 1060 }
+      { "name": "1 star", "count": 65 },
+      { "name": "2 star", "count": 95 },
+      { "name": "3 star", "count": 185 },
+      { "name": "4 star", "count": 420 },
+      { "name": "5 star", "count": 1125 }
     ]
   },
   {
-    "id": 4,
-    "image": "https://via.placeholder.com/150",
-    "title": "Cooksy",
-    "companyName": "KitchenAI",
-    "description": "Smart recipe finder and meal planner with nutrition tracking.",
-    "size": 38,
-    "reviews": 1700,
-    "ratingAvg": 4.5,
-    "downloads": 220000,
-    "ratings": [
-      { "name": "1 star", "count": 80 },
-      { "name": "2 star", "count": 130 },
-      { "name": "3 star", "count": 260 },
-      { "name": "4 star", "count": 400 },
-      { "name": "5 star", "count": 830 }
-    ]
-  },
-  {
-    "id": 5,
-    "image": "https://via.placeholder.com/150",
-    "title": "Budgetly",
-    "companyName": "FinGo",
-    "description": "Track expenses, set budgets, and save money effortlessly.",
-    "size": 29,
-    "reviews": 1560,
-    "ratingAvg": 4.4,
-    "downloads": 180000,
+    "image": "https://img.icons8.com/bubbles/300/spotify.png",
+    "title": "SmPlan: ToDo List With Reminder",
+    "companyName": "productive.io",
+    "id": 2,
+    "description": "SmPlan is a powerful all-in-one productivity application that seamlessly integrates the proven Pomodoro technique with comprehensive to-do list management and smart, customizable reminders. This combination is specifically engineered to help you break down large tasks into focused intervals, maximize your efficiency, and ensure no important deadlines are missed. The smart reminders are designed to trigger at optimal times based on your schedule, keeping you on track without feeling overwhelmed. It's the perfect tool for students and professionals looking to boost focus and effectively organize their daily and weekly workflow for consistent success.",
+    "size": 42,
+    "reviews": 1840,
+    "ratingAvg": 4.8,
+    "downloads": 352000,
     "ratings": [
       { "name": "1 star", "count": 75 },
-      { "name": "2 star", "count": 120 },
-      { "name": "3 star", "count": 210 },
-      { "name": "4 star", "count": 500 },
-      { "name": "5 star", "count": 655 }
+      { "name": "2 star", "count": 105 },
+      { "name": "3 star", "count": 175 },
+      { "name": "4 star", "count": 390 },
+      { "name": "5 star", "count": 1200 }
     ]
   },
   {
-    "id": 6,
-    "image": "https://via.placeholder.com/150",
-    "title": "TravelMate",
-    "companyName": "ExploreX",
-    "description": "Discover destinations, plan trips, and book flights easily.",
-    "size": 52,
-    "reviews": 3200,
-    "ratingAvg": 4.8,
-    "downloads": 500000,
-    "ratings": [
-      { "name": "1 star", "count": 120 },
-      { "name": "2 star", "count": 130 },
-      { "name": "3 star", "count": 280 },
-      { "name": "4 star", "count": 750 },
-      { "name": "5 star", "count": 1920 }
-    ]
-  },
-  {
-    "id": 7,
-    "image": "https://via.placeholder.com/150",
-    "title": "MindEase",
-    "companyName": "PeacefulTech",
-    "description": "Meditation and mindfulness app with daily relaxation sessions.",
-    "size": 25,
-    "reviews": 850,
-    "ratingAvg": 4.2,
-    "downloads": 92000,
-    "ratings": [
-      { "name": "1 star", "count": 60 },
-      { "name": "2 star", "count": 80 },
-      { "name": "3 star", "count": 160 },
-      { "name": "4 star", "count": 250 },
-      { "name": "5 star", "count": 300 }
-    ]
-  },
-  {
-    "id": 8,
-    "image": "https://via.placeholder.com/150",
-    "title": "LangLearn",
-    "companyName": "PolyGlot",
-    "description": "Learn new languages interactively with AI-powered lessons.",
-    "size": 48,
+    "image": "https://img.icons8.com/clouds/300/tiktok.png",
+    "title": "FLIP – Focus Timer For Study",
+    "companyName": "FocusLabs",
+    "id": 3,
+    "description": "FLIP is a specialized focus timer meticulously designed to meet the unique needs of students and academic learners who want to improve their study habits. The app provides a tangible way to measure and visualize your dedicated study time through smart session tracking and detailed statistical reports. Its unique interface encourages users to literally 'flip' their phone to start a focus session, turning concentration into a mindful, deliberate action. With FLIP, you can better understand where your study hours are spent, identify your most productive times, and maintain long-term momentum towards achieving your educational goals in a streamlined manner.",
+    "size": 49,
     "reviews": 1900,
-    "ratingAvg": 4.7,
-    "downloads": 280000,
+    "ratingAvg": 4.8,
+    "downloads": 350000,
     "ratings": [
-      { "name": "1 star", "count": 85 },
-      { "name": "2 star", "count": 120 },
-      { "name": "3 star", "count": 240 },
-      { "name": "4 star", "count": 420 },
-      { "name": "5 star", "count": 1035 }
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1150 }
     ]
   },
   {
-    "id": 9,
-    "image": "https://via.placeholder.com/150",
-    "title": "PhotoPro",
-    "companyName": "PixelWave",
-    "description": "Edit photos like a pro with AI tools and creative filters.",
-    "size": 60,
-    "reviews": 2750,
-    "ratingAvg": 4.6,
-    "downloads": 420000,
-    "ratings": [
-      { "name": "1 star", "count": 100 },
-      { "name": "2 star", "count": 150 },
-      { "name": "3 star", "count": 320 },
-      { "name": "4 star", "count": 600 },
-      { "name": "5 star", "count": 1580 }
-    ]
-  },
-  {
-    "id": 10,
-    "image": "https://via.placeholder.com/150",
-    "title": "EduSmart",
-    "companyName": "BrightMind",
-    "description": "Interactive learning platform for students and teachers.",
-    "size": 43,
-    "reviews": 2100,
-    "ratingAvg": 4.5,
-    "downloads": 310000,
-    "ratings": [
-      { "name": "1 star", "count": 90 },
-      { "name": "2 star", "count": 130 },
-      { "name": "3 star", "count": 250 },
-      { "name": "4 star", "count": 600 },
-      { "name": "5 star", "count": 1030 }
-    ]
-  },
-  {
-    "id": 11,
-    "image": "https://via.placeholder.com/150",
-    "title": "ShopNow",
-    "companyName": "Dealster",
-    "description": "Get amazing deals and shop from thousands of online stores.",
-    "size": 59,
-    "reviews": 3400,
-    "ratingAvg": 4.7,
-    "downloads": 560000,
-    "ratings": [
-      { "name": "1 star", "count": 150 },
-      { "name": "2 star", "count": 200 },
-      { "name": "3 star", "count": 400 },
-      { "name": "4 star", "count": 700 },
-      { "name": "5 star", "count": 1950 }
-    ]
-  },
-  {
-    "id": 12,
-    "image": "https://via.placeholder.com/150",
-    "title": "CodeHub",
-    "companyName": "DevSoft",
-    "description": "Collaborate, learn, and build projects with a coding community.",
+    "image": "https://img.icons8.com/clouds/300/discord.png",
+    "title": "Pomocat - Cute Pomodoro Timer",
+    "companyName": "CuteSoft",
+    "id": 4,
+    "description": "Pomocat is a delightful and engaging Pomodoro timer that brings a playful element to your focus sessions by featuring an adorable, interactive cat companion. This cute pet grows happier as you successfully complete your focus intervals, offering a fun, gamified incentive to stay on task and avoid distractions. The app combines the serious structure of the Pomodoro technique with a charming aesthetic, making the often-challenging task of concentration much more enjoyable. It is ideal for those who find traditional productivity apps too sterile and need a visually appealing, motivating companion to keep them energized and consistent throughout their busy day.",
     "size": 44,
     "reviews": 1900,
     "ratingAvg": 4.8,
@@ -213,6 +69,565 @@
       { "name": "3 star", "count": 180 },
       { "name": "4 star", "count": 400 },
       { "name": "5 star", "count": 1150 }
+    ]
+  },
+
+  {
+    "image": "https://img.icons8.com/ios-filled/300/shazam.png",
+    "title": "Time Planner: Schedule & Tasks",
+    "companyName": "Planify Inc",
+    "id": 5,
+    "description": "Time Planner offers a robust, all-encompassing solution for organizing your entire day, from managing complex projects to simple daily reminders. This highly efficient planner allows you to structure your tasks, set priority levels, and schedule appointments, all within a single, intuitive interface. Crucially, it fully supports the Pomodoro technique, enabling you to allocate focused time blocks to your scheduled activities, thereby ensuring deep work and minimizing procrastination. It serves as your central hub for time management, goal setting, and task execution, helping you gain clarity and control over your personal and professional commitments effectively.",
+    "size": 44,
+    "reviews": 1900,
+    "ratingAvg": 4.8,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1150 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/300/workspace-one.png",
+    "title": "Morning Habits - Daily Routine",
+    "companyName": "DailySteps",
+    "id": 6,
+    "description": "Morning Habits is a dedicated app designed to empower you to build and maintain powerful, positive morning routines that set the stage for a successful day. It features fully customizable daily checklists, allowing you to sequence your habits from waking up to starting work, and provides consistent, gentle reminders to keep you on track. By focusing on the critical first hours of the day, this app helps you establish a foundation of discipline and mental clarity. It tracks your progress over time, offering insightful analytics on your consistency, which reinforces positive behavior and helps you transform aspirations into unbreakable, automatic daily steps.",
+    "size": 44,
+    "reviews": 1900,
+    "ratingAvg": 4.8,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1150 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/300/ibis-paint-x.png",
+    "title": "Focus Plant: Pomodoro Forest",
+    "companyName": "GreenGrow",
+    "id": 7,
+    "description": "Focus Plant is an aesthetically pleasing productivity tool that creatively blends the Pomodoro method with a captivating virtual gardening experience. As you successfully track your focus sessions, the app rewards you by letting you grow a lush, beautiful, and personalized virtual garden. This delightful gamification provides an engaging, visual representation of your productivity, transforming focused effort into tangible growth within the app. It's an excellent alternative for those who enjoy nature themes and need a gentle, motivating way to stay off their phone and dedicate distraction-free time to their most important tasks, cultivating both your garden and your concentration.",
+    "size": 44,
+    "reviews": 1900,
+    "ratingAvg": 4.8,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1150 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/plasticine/300/ibis-paint-x.png",
+    "title": "Alarmy - Alarm Clock & Sleep",
+    "companyName": "Alarmify",
+    "id": 8,
+    "description": "Alarmy is widely recognized as one of the world's most powerful and effective alarm clock applications, guaranteeing you get out of bed on time, every single morning. It achieves this remarkable feat by requiring you to complete small, engaging 'missions' or challenges before the alarm can be completely dismissed, such as solving a math problem or taking a picture of a registered location. This mandatory action prevents the all-too-common practice of mindlessly hitting snooze. Beyond waking up, the app also includes sleep tracking features to help you monitor and improve your overall sleep quality for better daily energy and focus.",
+    "size": 44,
+    "reviews": 1900,
+    "ratingAvg": 4.8,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1150 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/300/zalo.png",
+    "title": "Study Bunny: Focus Timer",
+    "companyName": "StudyRabbit",
+    "id": 9,
+    "description": "Study Bunny is a charming and highly effective application that ingeniously gamifies your study time, making the process of deep concentration feel rewarding and fun. The app features an adorable bunny companion that you care for and dress up using coins earned by completing your focus sessions. This system of rewards and companionship acts as a powerful external motivator, especially for younger students or anyone who struggles with self-discipline. By turning study blocks into a playful goal, Study Bunny encourages longer, more consistent focus periods and helps you track your academic progress in a lighthearted and non-stressful way, making learning a habit.",
+    "size": 44,
+    "reviews": 1900,
+    "ratingAvg": 4.8,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1150 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/300/shazam.png",
+    "title": "Minimalist Pomodoro Timer",
+    "companyName": "CleanUI",
+    "id": 10,
+    "description": "The Minimalist Pomodoro Timer is an elegantly designed application focused entirely on deep work by offering a clean, distraction-free interface. It strips away unnecessary features and visual clutter, providing a pure, unadulterated Pomodoro experience where the timer is the sole focus. This intentional simplicity makes it an ideal tool for users who are easily overwhelmed or distracted by complex app designs. By dedicating itself to the core principles of the Pomodoro technique—timed work and rest intervals—the app ensures you can start your focus session instantly, maintain concentration easily, and maximize your productivity without getting lost in settings or secondary functions.",
+    "size": 44,
+    "reviews": 1900,
+    "ratingAvg": 4.8,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1150 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/300/goodnotes.png",
+    "title": "Boosted: Productivity & Time Tracker",
+    "companyName": "BoostedApp",
+    "id": 11,
+    "description": "Boosted is a comprehensive productivity and time tracking application that goes far beyond a simple timer by offering powerful analytical tools to help you understand your focus habits. It allows you to track the time spent on specific projects, individual tasks, and different categories of work, giving you a crystal-clear overview of how your hours are distributed. The app's strength lies in its ability to generate insightful charts and reports, enabling you to analyze your focus trends, identify time sinks, and make data-driven adjustments to your daily schedule for peak performance. Use Boosted to not just track time, but to proactively enhance your efficiency and effectiveness.",
+    "size": 44,
+    "reviews": 1900,
+    "ratingAvg": 4.8,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1150 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/clouds/300/canva.png",
+    "title": "Focus To-Do: Pomodoro Timer",
+    "companyName": "FocusTech",
+    "id": 12,
+    "description": "Focus To-Do represents the ultimate integration of the Pomodoro time management technique with a robust, feature-rich task manager and daily planner. It allows you to directly link your focused work sessions to the specific items on your to-do list, effectively turning every task into a scheduled block of deep, concentrated work. This powerful synergy helps you prioritize your day, eliminate procrastination by scheduling attention, and ensure that all your time is directly invested in completing your most important goals. It's the ideal organizational tool for anyone who needs to manage complex projects while maintaining disciplined, focused work intervals.",
+    "size": 44,
+    "reviews": 1900,
+    "ratingAvg": 4.8,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1150 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/clouds/300/youtube.png",
+    "title": "TickTick: Task & Reminder",
+    "companyName": "Appest Inc",
+    "id": 13,
+    "description": "TickTick is an incredibly versatile and powerful productivity application, serving as a comprehensive smart to-do list, a dynamic calendar, and an advanced habit tracker all in one seamless package. Its intuitive interface makes managing personal and professional tasks effortless, while smart reminders ensure you never forget an important deadline or appointment. The app offers extensive customization options, including multiple views like a Kanban board and a detailed timeline, to adapt to any user's preferred organizational style. Furthermore, its built-in productivity tracking features help you analyze your efficiency and consistently move closer to your long-term goals.",
+    "size": 44,
+    "reviews": 1900,
+    "ratingAvg": 4.8,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1150 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/clouds/300/radish-app.png",
+    "title": "Engross: Focus Timer & To-Do",
+    "companyName": "Engross Devs",
+    "id": 14,
+    "description": "Engross is specifically engineered to help users bypass the common pitfalls of modern distraction and cultivate genuine, deep focus through a structured system of tasks and timers. The app provides a dedicated 'deep work' mode that actively helps avoid digital interruptions, allowing you to immerse yourself fully in your work without the constant urge to check notifications. By combining a reliable focus timer with a clear task management interface, Engross ensures that you not only dedicate time to work but that the time is spent on your most high-priority, meaningful activities, making every minute of your concentration count towards tangible progress and better results.",
+    "size": 44,
+    "reviews": 1900,
+    "ratingAvg": 4.8,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1150 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/bubbles/300/zalo.png",
+    "title": "Tide - Focus Timer & Sleep",
+    "companyName": "TideApp",
+    "id": 15,
+    "description": "Tide is a beautifully minimalist application that serves a dual purpose: enhancing focus during the day and promoting restful sleep at night. Its core feature is a focus timer that can be paired with a carefully curated selection of natural and ambient sounds, such as ocean waves or forest noise, scientifically chosen to aid concentration and mask distractions. Beyond work, Tide integrates gentle sleep aids, including guided meditations and soothing soundscapes, to help you unwind and prepare for a deeper, more restorative night's rest. It’s an holistic approach to productivity, recognizing the vital link between focused work and quality sleep.",
+    "size": 44,
+    "reviews": 1900,
+    "ratingAvg": 4.8,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1150 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/plasticine/300/zalo.png",
+    "title": "Be Focused: Focus Timer",
+    "companyName": "XWave",
+    "id": 16,
+    "description": "Be Focused is a streamlined and highly effective timer application built with the sole purpose of maximizing productivity during dedicated work sessions. Utilizing a clear and simple interface, it allows users to effortlessly set customized work and break intervals, perfectly supporting the principles of time-blocking and the Pomodoro technique. Its simplicity is its strength, eliminating any potential distractions or complex setup processes that can derail your focus before you even start. This is the ideal tool for professionals and students who require an elegant, no-nonsense timer that delivers consistent results and helps them maintain long-term concentration without any visual clutter or unnecessary features.",
+    "size": 44,
+    "reviews": 1900,
+    "ratingAvg": 4.8,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1150 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/dusk/300/google-docs.png",
+    "title": "Taskito: To-Do List & Planner",
+    "companyName": "Taskito Ltd.",
+    "id": 17,
+    "description": "Taskito is a versatile and user-friendly application designed to be your smart task and routine planner, featuring a unique and highly intuitive timeline visualization. This visual approach allows you to see your entire day and week laid out chronologically, making it easy to spot potential scheduling conflicts and manage your workload effectively. You can easily drag and drop tasks, set recurring routines, and manage projects from a single dashboard. Taskito is perfect for those who think visually and need a dynamic, clear way to organize their complex schedule, ensuring routines are built, deadlines are met, and productivity is always moving forward in a smooth, chronological flow.",
+    "size": 44,
+    "reviews": 1900,
+    "ratingAvg": 4.8,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1150 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/plasticine/300/apple-books.png",
+    "title": "Productive - Habit Tracker",
+    "companyName": "Reflectly",
+    "id": 18,
+    "description": "Productive is a beautifully designed and intuitive habit tracker specifically created to assist you in the challenging process of building and consistently maintaining new, positive routines. The app allows you to schedule your habits throughout the day, track your daily consistency with satisfying visual streaks, and receive timely, gentle reminders to perform your actions. Its goal-oriented interface is deeply motivating, providing a clear visual representation of your progress and encouraging you to keep your chain of productive days unbroken. Whether you're trying to exercise daily, read more, or learn a new skill, Productive gives you the structure and motivation to succeed.",
+    "size": 44,
+    "reviews": 1900,
+    "ratingAvg": 4.8,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1150 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/pulsar-gradient/300/youtube-play.png",
+    "title": "Pomodoro Smart Timer",
+    "companyName": "Pomodone",
+    "id": 19,
+    "description": "The Pomodoro Smart Timer is an advanced application engineered to optimize your work efficiency by combining reliable time tracking with intelligent task management features, all within the Pomodoro framework. It provides smart time allocation tools that help you estimate and track how much focused time each task truly requires, leading to more accurate scheduling and improved planning. The app offers comprehensive reports that break down your working hours into different categories, giving you a detailed analysis of your productivity habits. It’s an essential tool for knowledge workers and students who rely on the Pomodoro technique and need data-driven insights to consistently improve their deep work output.",
+    "size": 44,
+    "reviews": 1900,
+    "ratingAvg": 4.8,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1150 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/clouds/300/--tinder.png",
+    "title": "TimeTune: Schedule Planner",
+    "companyName": "TimeTune Devs",
+    "id": 20,
+    "description": "TimeTune is a highly intelligent daily schedule manager specifically designed to help you analyze and proactively optimize your time usage for better efficiency and less wasted effort. It moves beyond a simple calendar by allowing you to create 'routines'—blocks of time dedicated to specific activities, such as work, exercise, or study—which you can track and modify over time. The app provides powerful statistics on how you spend your time, identifying your most time-consuming activities and helping you to reallocate hours to your most important priorities. Use TimeTune to gain a data-backed understanding of your day and transform your schedule into a powerful tool for self-improvement and productivity.",
+    "size": 44,
+    "reviews": 1900,
+    "ratingAvg": 4.8,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 1150 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/plasticine/300/zalo.png",
+    "title": "Be Focused: Focus Timer",
+    "companyName": "XWave",
+    "id": 16,
+    "description": "Be Focused is a streamlined and highly effective timer application built with the sole purpose of maximizing productivity during dedicated work sessions. Utilizing a clear and simple interface, it allows users to effortlessly set customized work and break intervals, perfectly supporting the principles of time-blocking and the Pomodoro technique. Its simplicity is its strength, eliminating any potential distractions or complex setup processes that can derail your focus before you even start. This is the ideal tool for professionals and students who require an elegant, no-nonsense timer that delivers consistent results and helps them maintain long-term concentration without any visual clutter or unnecessary features.",
+    "size": 42,
+    "reviews": 12,
+    "ratingAvg": 4.6,
+    "downloads": 45,
+    "ratings": [
+      { "name": "1 star", "count": 920 },
+      { "name": "2 star", "count": 1050 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 5200 },
+      { "name": "5 star", "count": 14500 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/dusk/300/google-docs.png",
+    "title": "Taskito: To-Do List & Planner",
+    "companyName": "Taskito Ltd.",
+    "id": 17,
+    "description": "Taskito is a versatile and user-friendly application designed to be your smart task and routine planner, featuring a unique and highly intuitive timeline visualization. This visual approach allows you to see your entire day and week laid out chronologically, making it easy to spot potential scheduling conflicts and manage your workload effectively. You can easily drag and drop tasks, set recurring routines, and manage projects from a single dashboard. Taskito is perfect for those who think visually and need a dynamic, clear way to organize their complex schedule, ensuring routines are built, deadlines are met, and productivity is always moving forward in a smooth, chronological flow.",
+    "size": 55,
+    "reviews": 15,
+    "ratingAvg": 4.8,
+    "downloads": 60,
+    "ratings": [
+      { "name": "1 star", "count": 980 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 2250 },
+      { "name": "4 star", "count": 7200 },
+      { "name": "5 star", "count": 25500 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/plasticine/300/apple-books.png",
+    "title": "Productive - Habit Tracker",
+    "companyName": "Reflectly",
+    "id": 18,
+    "description": "Productive is a beautifully designed and intuitive habit tracker specifically created to assist you in the challenging process of building and consistently maintaining new, positive routines. The app allows you to schedule your habits throughout the day, track your daily consistency with satisfying visual streaks, and receive timely, gentle reminders to perform your actions. Its goal-oriented interface is deeply motivating, providing a clear visual representation of your progress and encouraging you to keep your chain of productive days unbroken. Whether you're trying to exercise daily, read more, or learn a new skill, Productive gives you the structure and motivation to succeed.",
+    "size": 48,
+    "reviews": 18,
+    "ratingAvg": 4.7,
+    "downloads": 55,
+    "ratings": [
+      { "name": "1 star", "count": 1010 },
+      { "name": "2 star", "count": 1450 },
+      { "name": "3 star", "count": 2300 },
+      { "name": "4 star", "count": 6200 },
+      { "name": "5 star", "count": 21200 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/pulsar-gradient/300/youtube-play.png",
+    "title": "Pomodoro Smart Timer",
+    "companyName": "Pomodone",
+    "id": 19,
+    "description": "The Pomodoro Smart Timer is an advanced application engineered to optimize your work efficiency by combining reliable time tracking with intelligent task management features, all within the Pomodoro framework. It provides smart time allocation tools that help you estimate and track how much focused time each task truly requires, leading to more accurate scheduling and improved planning. The app offers comprehensive reports that break down your working hours into different categories, giving you a detailed analysis of your productivity habits. It’s an essential tool for knowledge workers and students who rely on the Pomodoro technique and need data-driven insights to consistently improve their deep work output.",
+    "size": 53,
+    "reviews": 14,
+    "ratingAvg": 4.6,
+    "downloads": 50,
+    "ratings": [
+      { "name": "1 star", "count": 1220 },
+      { "name": "2 star", "count": 1320 },
+      { "name": "3 star", "count": 2150 },
+      { "name": "4 star", "count": 5700 },
+      { "name": "5 star", "count": 20100 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/clouds/300/--tinder.png",
+    "title": "TimeTune: Schedule Planner",
+    "companyName": "TimeTune Devs",
+    "id": 20,
+    "description": "TimeTune is a highly intelligent daily schedule manager specifically designed to help you analyze and proactively optimize your time usage for better efficiency and less wasted effort. It moves beyond a simple calendar by allowing you to create 'routines'—blocks of time dedicated to specific activities, such as work, exercise, or study—which you can track and modify over time. The app provides powerful statistics on how you spend your time, identifying your most time-consuming activities and helping you to reallocate hours to your most important priorities. Use TimeTune to gain a data-backed understanding of your day and transform your schedule into a powerful tool for self-improvement and productivity.",
+    "size": 49,
+    "reviews": 13,
+    "ratingAvg": 4.7,
+    "downloads": 58,
+    "ratings": [
+      { "name": "1 star", "count": 910 },
+      { "name": "2 star", "count": 1220 },
+      { "name": "3 star", "count": 1950 },
+      { "name": "4 star", "count": 5850 },
+      { "name": "5 star", "count": 19200 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/doodle/300/piccollage.png",
+    "title": "DailyBean: Simple Journal",
+    "companyName": "DailyBean Inc.",
+    "id": 21,
+    "description": "DailyBean is a charmingly simple and aesthetically pleasing journaling application that focuses on making daily reflection a quick, non-intimidating, and consistent habit. Instead of requiring lengthy entries, the app uses a straightforward system where you record your day using simple clicks, emojis, and visual icons to represent your mood, activities, and key events. This approach makes journaling fast and fun, removing the friction that often prevents people from sticking to a daily practice. DailyBean helps you track your emotional patterns and life events over time, providing a beautiful, engaging, and personal visual history of your well-being and productivity for easy self-review.",
+    "size": 44,
+    "reviews": 9,
+    "ratingAvg": 4.7,
+    "downloads": 38,
+    "ratings": [
+      { "name": "1 star", "count": 810 },
+      { "name": "2 star", "count": 1020 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 6100 },
+      { "name": "5 star", "count": 23200 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/bubbles/300/--tinder.png",
+    "title": "Loop Habit Tracker",
+    "companyName": "SimpleLoop",
+    "id": 22,
+    "description": "Loop Habit Tracker is a highly regarded, open-source application dedicated to helping you build and rigorously maintain strong, long-term routines with maximum consistency. Its clean, ad-free interface prioritizes the tracking experience, focusing on generating a 'habit score' and detailed charts that offer a scientific view of your progress and momentum. The app's power lies in its commitment to simplicity and data integrity, ensuring you can clearly see the impact of your daily choices on your overall consistency. Loop is the ideal choice for users who value privacy, transparency, and a straightforward, data-driven approach to turning good intentions into permanent, automatic behaviors and routines.",
+    "size": 38,
+    "reviews": 7,
+    "ratingAvg": 4.9,
+    "downloads": 42,
+    "ratings": [
+      { "name": "1 star", "count": 610 },
+      { "name": "2 star", "count": 880 },
+      { "name": "3 star", "count": 1750 },
+      { "name": "4 star", "count": 5300 },
+      { "name": "5 star", "count": 18700 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/clouds/300/piccollage.png",
+    "title": "Toggl Track: Time Tracker",
+    "companyName": "Toggl OÜ",
+    "id": 23,
+    "description": "Toggl Track is a leading professional time tracking application designed to help individuals and teams effortlessly monitor the time spent across all their tasks, projects, and client work. Its key strength is its simple, one-click tracking functionality, which makes it easy to start and stop timers without interrupting your work flow. The app provides a powerful set of reporting tools, offering deep insights into where your billable and non-billable hours are actually being spent, which is crucial for accurate invoicing and project management. Toggl helps you analyze productivity, optimize your workflow, and ensure you're always getting maximum value from your work hours.",
+    "size": 50,
+    "reviews": 11,
+    "ratingAvg": 4.8,
+    "downloads": 48,
+    "ratings": [
+      { "name": "1 star", "count": 920 },
+      { "name": "2 star", "count": 1150 },
+      { "name": "3 star", "count": 1950 },
+      { "name": "4 star", "count": 6300 },
+      { "name": "5 star", "count": 24200 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/300/workspace-one.png",
+    "title": "HabitNow - Daily Routine",
+    "companyName": "HabitNow Inc.",
+    "id": 24,
+    "description": "HabitNow offers a robust and user-friendly experience as a complete personal habit tracker seamlessly integrated with a daily planner, creating a powerful system for personal development. It allows you to define, schedule, and track all your habits and goals with customizable settings for frequency and time of day. The app utilizes a clear, goal-oriented interface to help you visualize your progress and maintain your winning streaks, acting as a constant motivator. By combining task management with habit formation, HabitNow ensures that your short-term tasks are aligned with your long-term routines, driving consistent, positive change across all aspects of your life efficiently.",
+    "size": 46,
+    "reviews": 12,
+    "ratingAvg": 4.6,
+    "downloads": 47,
+    "ratings": [
+      { "name": "1 star", "count": 1010 },
+      { "name": "2 star", "count": 1280 },
+      { "name": "3 star", "count": 2050 },
+      { "name": "4 star", "count": 6750 },
+      { "name": "5 star", "count": 22200 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/clouds/300/workout-women.png",
+    "title": "BFT - Brain Focus Timer",
+    "companyName": "FocusTrain",
+    "id": 25,
+    "description": "BFT, the Brain Focus Timer, is a straightforward and highly effective application built on the principle of breaking down work into short, intense bursts of concentration, followed by necessary rest. The timer's primary goal is to help you overcome procrastination and effortlessly enter a state of deep, uninterrupted work through its simplicity. Its minimalistic design eliminates all potential distractions, allowing you to focus completely on the task at hand during your chosen work intervals. BFT is the perfect tool for users who need a clear, no-frills timer to structure their work day and train their mind to concentrate more deeply and for longer periods of time.",
+    "size": 37,
+    "reviews": 8,
+    "ratingAvg": 4.5,
+    "downloads": 36,
+    "ratings": [
+      { "name": "1 star", "count": 820 },
+      { "name": "2 star", "count": 1020 },
+      { "name": "3 star", "count": 1850 },
+      { "name": "4 star", "count": 4950 },
+      { "name": "5 star", "count": 17100 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/clouds/300/twitter-squared.png",
+    "title": "Goodtime Productivity Timer",
+    "companyName": "Goodtime Studio",
+    "id": 26,
+    "description": "Goodtime Productivity Timer is a clean, minimal, and open-source application designed to fully support the Pomodoro technique while actively helping you maintain a distraction-free work environment. A key feature is its integrated distraction blocking capability, which helps silence or limit access to distracting apps and notifications while your focus timer is running, ensuring deep work. The open-source nature means it is transparent and community-driven, often appealing to users who value control and simplicity in their tools. It offers a pure, reliable experience for timing work and rest intervals, making it a robust choice for achieving consistent, high-quality concentration sessions throughout the day.",
+    "size": 36,
+    "reviews": 6,
+    "ratingAvg": 4.7,
+    "downloads": 34,
+    "ratings": [
+      { "name": "1 star", "count": 710 },
+      { "name": "2 star", "count": 920 },
+      { "name": "3 star", "count": 1520 },
+      { "name": "4 star", "count": 4600 },
+      { "name": "5 star", "count": 16200 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/plasticine/300/zalo.png",
+    "title": "ZenTask - Minimal ToDo",
+    "companyName": "ZenWare",
+    "id": 27,
+    "description": "ZenTask is a uniquely styled to-do list application that draws inspiration from the principles of Zen, offering a minimal, calming, and deeply focused experience for managing your daily tasks. Its design philosophy is centered on simplicity, purposefully stripping away complex features and visual clutter to help you concentrate only on your current, most important tasks. This intentional minimalism reduces cognitive load and prevents the feeling of being overwhelmed by a massive to-do list. ZenTask is the ideal solution for users who seek a peaceful, elegant, and distraction-free environment to organize their thoughts, prioritize their actions, and cultivate a mindful approach to productivity.",
+    "size": 34,
+    "reviews": 5,
+    "ratingAvg": 4.6,
+    "downloads": 28,
+    "ratings": [
+      { "name": "1 star", "count": 610 },
+      { "name": "2 star", "count": 810 },
+      { "name": "3 star", "count": 1450 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 13100 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/clouds/300/workout-women.png",
+    "title": "ClearMind - Focus Music",
+    "companyName": "CalmAudio",
+    "id": 28,
+    "description": "ClearMind is an innovative application dedicated to helping you achieve and sustain peak focus through the power of carefully selected, scientifically designed music tracks and ambient soundscapes. The music is composed and curated to activate the brain's concentration centers, block out distracting background noise, and induce a state of 'flow' where deep work becomes effortless. The app offers various sonic environments tailored for different needs, whether you require calm concentration for reading or energetic focus for coding. ClearMind is an essential auditory tool for anyone who works or studies in noisy environments and needs a reliable, non-medicinal way to boost their cognitive performance and mental clarity.",
+    "size": 41,
+    "reviews": 10,
+    "ratingAvg": 4.9,
+    "downloads": 49,
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 910 },
+      { "name": "3 star", "count": 1650 },
+      { "name": "4 star", "count": 4800 },
+      { "name": "5 star", "count": 18200 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/clouds/300/workout-women.png",
+    "title": "WorkMode: Distraction Blocker",
+    "companyName": "WorkMode Devs",
+    "id": 29,
+    "description": "WorkMode is a dedicated productivity application engineered to be your personal digital bodyguard against the constant barrage of notifications and distracting applications on your phone. It allows you to create highly customized 'work mode' sessions where you can block specific, time-wasting apps and silence all non-essential notifications for a chosen period. This physical barrier to distraction is incredibly effective at helping you enter and maintain a state of deep focus for extended periods of time. WorkMode is an indispensable tool for students, freelancers, and professionals who struggle with phone addiction and need an enforced system to ensure dedicated, uninterrupted work sessions for high-quality output.",
+    "size": 44,
+    "reviews": 8,
+    "ratingAvg": 4.7,
+    "downloads": 46,
+    "ratings": [
+      { "name": "1 star", "count": 910 },
+      { "name": "2 star", "count": 1110 },
+      { "name": "3 star", "count": 2020 },
+      { "name": "4 star", "count": 5650 },
+      { "name": "5 star", "count": 19100 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/doodle/300/piccollage.png",
+    "title": "Flow: Study With Me",
+    "companyName": "FocusCrew",
+    "id": 30,
+    "description": "Flow is a social productivity application that harnesses the power of community by allowing users to join live focus sessions with others around the world. This 'Study With Me' concept creates a feeling of collective accountability and a motivating, shared workspace, which is especially beneficial for remote learners or those who thrive in a structured environment. The app includes a simple focus timer and virtual 'rooms' where you can see others working, providing a silent, peer-pressure-like incentive to stay on task. Flow is an excellent, innovative tool to overcome procrastination and boost your motivation by being part of a global community dedicated to concentrated, shared effort.",
+    "size": 51,
+    "reviews": 14,
+    "ratingAvg": 4.8,
+    "downloads": 52,
+    "ratings": [
+      { "name": "1 star", "count": 1010 },
+      { "name": "2 star", "count": 1320 },
+      { "name": "3 star", "count": 2120 },
+      { "name": "4 star", "count": 6250 },
+      { "name": "5 star", "count": 24250 }
     ]
   }
 ]
