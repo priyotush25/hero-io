@@ -1,14 +1,14 @@
 import { useState } from "react";
 import { FaDownload, FaStar } from "react-icons/fa";
 import { toast } from "react-toastify";
+import AppNotFund from "../Component/AppNotFound/AppNotFound";
 import { getInstalledApps } from "../utilities/localStorage";
 
 const InstalledApps = () => {
   const [installedApps, setInstalledApps] = useState(() => getInstalledApps());
   const [sortOrder, setSortOrder] = useState("none");
 
-  if (!installedApps.length)
-    return <p className="text-center text-gray-500 mt-10">No Installed Apps</p>;
+  if (!installedApps.length) return <AppNotFund />;
 
   // Sort logic
   const sortedItem = (() => {
