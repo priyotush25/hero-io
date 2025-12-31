@@ -37,28 +37,26 @@ Hero-IO is a modern, high-performance web application designed to showcase trend
 
 ## ⚙️ Installation & Local Development
 
-To run the project locally:
+To set up and run the Hero-IO project locally, follow these steps:
 
-1. **Clone the Repository**
+1. **Clone the Repository**  
    ```bash
    git clone https://github.com/priyotush25/hero-io.git
 
-Install DependenciesBashnpm install
+Navigate to the Project DirectoryBashcd hero-io
+Install DependenciesBashnpm installThis will install all required packages, including React, Vite, Tailwind CSS, and React Router DOM.
 Start the Development ServerBashnpm run dev
-View the Application
-Open your browser and visit http://localhost:5173
+Open the Application
+Once the server is running, visit:
+http://localhost:5173The app will automatically reload on any code changes thanks to Vite's hot module replacement.
 
-📌 Project Context
-This project serves as a frontend portfolio piece, highlighting:
+Available Scripts
 
-Strong command of React fundamentals and best practices
-Effective state management via props and React hooks
-Proficiency with modern styling tools like Tailwind CSS
-Capability to transform sophisticated designs into fully interactive, production-ready applications
+npm run dev – Starts the development server
+npm run build – Builds the app for production (outputs to /dist)
+npm run preview – Locally preview the production build
 
-
-Created by Priyotush Chandra Paul
-GitHub • LinkedIn (update with your profile link)
+Enjoy exploring and extending the project! 🚀
 
 ```
 
