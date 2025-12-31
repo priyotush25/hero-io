@@ -1,84 +1,74 @@
-# Hero-IO – React Frontend Application
 
-## Overview
+# Hero-IO – Application
 
+Description:
 Hero-IO is a modern, high-performance web application designed to showcase trending applications in an App Store-inspired interface. Leveraging a component-based architecture, it allows users to effortlessly browse app ratings, download statistics, and detailed specifications.
 
-🔗 **Live Demo**: [https://hero-io-priyo.netlify.app/](https://hero-io-priyo.netlify.app/)
 
-🖼️ **Preview**
+# Live project link.
 
-<div align="center">
-  <img width="800" alt="Hero-IO Desktop View" src="https://github.com/user-attachments/assets/65cb3acd-af22-4b8a-83ac-cab861acb925" />
-  <p><em>Desktop view of the Hero-IO landing page, featuring a clean hero section, trending apps grid, and responsive navigation.</em></p>
-</div>
+[View Live Project](https://hero-io-priyo.netlify.app/)
 
-## ✨ Key Features
 
-- **Lightning-Fast Performance**: Powered by Vite for optimal build times and near-instant page loads.
-- **Fully Responsive Design**: Built with Tailwind CSS to deliver a seamless experience on mobile, tablet, and desktop devices.
-- **Dynamic Client-Side Routing**: Implemented with React Router DOM for smooth navigation between the app gallery and individual detail views.
-- **Modular & Scalable Architecture**: Composed of reusable functional components for maintainability and future extensions.
-- **Modern UI/UX**: Elegant, intuitive design inspired by leading app stores, with engaging visuals and user-friendly interactions.
 
-## 🛠️ Tech Stack
 
-### Core Technologies
-- **React.js** – Component-based UI library
-- **Vite** – Next-generation frontend tooling for fast development and builds
-- **React Router DOM** – Declarative routing for single-page applications
+## Tech Stack
 
-### Styling
-- **Tailwind CSS** – Utility-first CSS framework for rapid, responsive development
+**Client:** React, React Router, TailwindCSS
 
-### Tools & Deployment
-- **Git & GitHub** – Version control and source management
-- **Netlify** – Automated continuous deployment and global hosting
+**Server:** Node, Express
 
-⚙️ Installation & Local Development
+**Tools & Deployment:** Git & GitHub, Netlify
+## Features
 
-Follow these steps to set up Hero-IO locally:
+- Browse trending applications in an App Store-like interface
+- View app ratings, downloads, and detailed information
+- Responsive design for mobile and desktop
+- Smooth animations using Framer Motion
 
-Clone the Repository
+## 📦 Dependencies
+- react
+- react-dom
+- react-scripts
+- tailwindcss
+- framer-motion
+- @vitejs/plugin-react (if using Vite)
+
+
+## Installation
+
+Follow these steps to run the project on your local machine:
+
+```bash
+
+1. **Clone the repository**
 
 git clone https://github.com/priyotush25/hero-io.git
-
-
-Navigate to the Project Directory
-
 cd hero-io
 
 
-Install Dependencies
+2. **Install dependencies**
 
 npm install
 
 
-This will install all required packages, including React, Vite, Tailwind CSS, and React Router DOM.
+3. **Run the project**
 
-Start the Development Server
+npm start
 
-npm run dev
-
-
-Open the Application in Your Browser
-Navigate to http://localhost:5173
-.
-The app will automatically reload on code changes thanks to Vite's hot module replacement.
-
-Available Scripts
-
-npm run dev – Starts the development server
-
-npm run build – Builds the app for production (outputs to /dist)
-
-npm run preview – Locally preview the production build
+This will start the app locally at http://localhost:3000.
 
 
+4. **Build for production**
+
+npm run build
 
 
+```
+    
+## Additional Resources
 
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+- [React Router DOM](https://reactrouter.com/start/data/installation/)
 
-
-
-   
