@@ -66,16 +66,16 @@ Follow the steps below to run this project on your local machine:
 git clone https://github.com/priyotush25/hero-io.git
 
 
-Step 2: Navigate to Project Directory
+### Step 2: Navigate to Project Directory
 cd hero-io
 
-Step 3: Install Dependencies
+### Step 3: Install Dependencies
 npm install
 
-Step 4: Start the Development Server
+### Step 4: Start the Development Server
 npm run dev
 
-Step 5: Open in Browser
+### Step 5: Open in Browser
 http://localhost:5173
 
 🌐 Deployment
@@ -83,6 +83,7 @@ http://localhost:5173
 This project is deployed using Netlify
 
 Live link is provided above
+
 
 📌 Additional Information
 
