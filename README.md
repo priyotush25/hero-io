@@ -1,4 +1,4 @@
-# 🚀 Hero-IO – React Frontend Application
+# Hero-IO – React Frontend Application
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -9,13 +9,12 @@
 
 ---
 
-## 📖 Overview
+## Overview
 **Hero-IO** is a modern, high-performance web application designed to showcase trending applications. Built with a focus on **Component-Based Architecture**, the platform provides users with a seamless interface to explore app ratings, download statistics, and deep-dive into detailed specifications.
 
-> [!IMPORTANT]
-> **🌐 Live Demo:** [https://hero-io-priyo.netlify.app/](https://hero-io-priyo.netlify.app/)
+## Live Demo
+>  [https://hero-io-priyo.netlify.app/](https://hero-io-priyo.netlify.app/)
 
----
 
 ## 🖼️ Preview
 <div align="center">
