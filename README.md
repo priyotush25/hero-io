@@ -67,16 +67,21 @@ git clone https://github.com/priyotush25/hero-io.git
 
 
 ### Step 2: Navigate to Project Directory
+```bash
 cd hero-io
 
 ### Step 3: Install Dependencies
+```bash
 npm install
 
 ### Step 4: Start the Development Server
+```bash
 npm run dev
 
 ### Step 5: Open in Browser
+```bash
 http://localhost:5173
+
 
 🌐 Deployment
 
