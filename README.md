@@ -1,33 +1,46 @@
-# Hero IO Apps React Project
+📁 Repository: Hero-IO Apps React Project
 
-## Overview
+🔗 Live Demo:
+https://hero-io-priyo.netlify.app/
+ 
+GitHub
 
-This is a **React.js web application** that displays **apps** from the market in a user-friendly and visually appealing interface. The project is designed to showcase trending applications, their ratings, downloads, and other details using **React components** and **custom hooks**. It includes navigation between pages, a trending apps section, and a detailed app view.
+📌 Description:
+Hero-IO is a modern responsive React application that showcases trending apps with ratings, downloads and detailed views using React components. 
+GitHub
 
-The main goal of this project is to create a **modern, responsive app listing platform** that can be extended or integrated with APIs in the future.
+🛠 Technologies Used
 
----
+React.js
 
-## Features
+React Router v6
 
-- Display **trending apps** in a clean and responsive grid layout.
-- View **app details** including title, description, downloads, reviews, and ratings.
-- **Loading animation** while fetching app data.
-- **Navigation** between pages using **React Router**.
-- Reusable **AppsCard** component for each app.
-- Fully **responsive design** compatible with mobile, tablet, and desktop.
-- Gradient styled buttons for a modern look.
+Tailwind CSS
 
----
+JavaScript (ES6+)
 
-## Technologies Used
+Custom Hooks 
+GitHub
 
-React.js - Frontend library
+✨ Core Features
 
-React Router v6 - Navigation
+✔️ Responsive & modern UI
+✔️ Navigation between pages
+✔️ App details view
+✔️ Dynamic trending app list
+✔️ Loading animation
+✔️ Clean component structure 
+GitHub
 
-TailwindCSS - Styling and responsive layout
+⚙️ How to Run Locally
+# Clone the repo
+git clone https://github.com/priyotush25/hero-io.git
 
-Custom Hooks - For fetching app data
+# Go to project directory
+cd hero-io
 
-JavaScript (ES6+) - Logic and interactivity
+# Install dependencies
+npm install
+
+# Start dev server
+npm run dev
