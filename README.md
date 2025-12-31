@@ -35,30 +35,44 @@ Hero-IO is a modern, high-performance web application designed to showcase trend
 - **Git & GitHub** – Version control and source management
 - **Netlify** – Automated continuous deployment and global hosting
 
-## ⚙️ Installation & Local Development
+⚙️ Installation & Local Development
 
-To set up and run the Hero-IO project locally, follow these steps:
+Follow these steps to set up Hero-IO locally:
 
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/priyotush25/hero-io.git
+Clone the Repository
 
-Navigate to the Project DirectoryBashcd hero-io
-Install DependenciesBashnpm installThis will install all required packages, including React, Vite, Tailwind CSS, and React Router DOM.
-Start the Development ServerBashnpm run dev
-Open the Application
-Once the server is running, visit:
-http://localhost:5173The app will automatically reload on any code changes thanks to Vite's hot module replacement.
+git clone https://github.com/priyotush25/hero-io.git
+
+
+Navigate to the Project Directory
+
+cd hero-io
+
+
+Install Dependencies
+
+npm install
+
+
+This will install all required packages, including React, Vite, Tailwind CSS, and React Router DOM.
+
+Start the Development Server
+
+npm run dev
+
+
+Open the Application in Your Browser
+Navigate to http://localhost:5173
+.
+The app will automatically reload on code changes thanks to Vite's hot module replacement.
 
 Available Scripts
 
 npm run dev – Starts the development server
+
 npm run build – Builds the app for production (outputs to /dist)
+
 npm run preview – Locally preview the production build
-
-Enjoy exploring and extending the project! 🚀
-
-```
 
 
 
