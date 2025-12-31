@@ -28,7 +28,7 @@ Hero-IO is a modern, high-performance web application designed to showcase trend
 
 ## 📦 Dependencies
 - react
-- react-dom
+- react-router-dom
 - react-scripts
 - tailwindcss
 - framer-motion
