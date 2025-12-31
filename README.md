@@ -16,9 +16,10 @@
 >  [https://hero-io-priyo.netlify.app/](https://hero-io-priyo.netlify.app/)
 
 
+
 ## 🖼️ Preview
 <div align="center">
-  <img src="./screenshot.png" alt="Hero-IO Desktop View" width="90%" />
+<img width="1854" height="2831" alt="Hero IO" src="https://github.com/user-attachments/assets/65cb3acd-af22-4b8a-83ac-cab861acb925" />
   <p><em>Desktop view of the Hero-IO Landing Page</em></p>
 </div>
 
